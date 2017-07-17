@@ -1,0 +1,13 @@
+
+#upme_inc_codes {
+    border: 1px solid #cfcfcf;
+}
+
+#upme_inc_codes_titles {
+    background: none repeat scroll 0 0 #eee;
+    border-bottom: 1px solid #cfcfcf;
+}
+
+#upme_inc_codes_titles th {
+    padding: 10px;
+}

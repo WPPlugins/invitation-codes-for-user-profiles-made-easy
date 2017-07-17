@@ -1,0 +1,204 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: UPME Invitation Codes v1.0\n"
+"POT-Creation-Date: 2014-12-17 15:59+0530\n"
+"PO-Revision-Date: 2014-12-17 16:00+0530\n"
+"Last-Translator: Themefluent <support@themefluent.com>\n"
+"Language-Team: Themefluent <support@themefluent.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.1\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../classes/class-upme-inc-manager.php:41
+msgid "You need an invitation code to register new account on this site."
+msgstr ""
+
+#: ../classes/class-upme-inc-manager.php:60
+#: ../classes/class-upme-inc-manager.php:63
+msgid "Please enter valid invitation code."
+msgstr ""
+
+#: ../classes/class-upme-inc-manager.php:97
+msgid "Invitation code already exists."
+msgstr ""
+
+#: ../classes/class-upme-inc-manager.php:103
+msgid "New invitation code added."
+msgstr ""
+
+#: ../classes/class-upme-inc-manager.php:106
+msgid "Failed to add new invitation code."
+msgstr ""
+
+#: ../classes/class-upme-inc-manager.php:128
+msgid "Delete Code"
+msgstr ""
+
+#: ../classes/class-upme-inc-manager.php:135
+msgid "Invitation codes are not available."
+msgstr ""
+
+#: ../classes/class-upme-inc-manager.php:158
+msgid "Invitation code deleted."
+msgstr ""
+
+#: ../classes/class-upme-inc-manager.php:161
+msgid "Failed to delete invitation code."
+msgstr ""
+
+#: ../classes/class-upme-inc-manager.php:170
+msgid "Please Select"
+msgstr ""
+
+#: ../classes/class-upme-inc-manager.php:191
+msgid "Invalid email addreses list."
+msgstr ""
+
+#: ../classes/class-upme-inc-manager.php:199
+#, php-format
+msgid "Invitation for Registration - %s"
+msgstr ""
+
+#: ../classes/class-upme-inc-manager.php:201
+#, php-format
+msgid "Your are invited to create a new account in %s. "
+msgstr ""
+
+#: ../classes/class-upme-inc-manager.php:203
+#, php-format
+msgid "Invitation Code: %s"
+msgstr ""
+
+#: ../classes/class-upme-inc-manager.php:205
+msgid "You can now register new account using the following link."
+msgstr ""
+
+#: ../classes/class-upme-inc-manager.php:207
+msgid "Thanks"
+msgstr ""
+
+#: ../classes/class-upme-inc-manager.php:217
+msgid "Invitation code sent."
+msgstr ""
+
+#: ../classes/class-upme-inc-module-settings.php:32
+msgid "Invitation code is required."
+msgstr ""
+
+#: ../classes/class-upme-inc-module-settings.php:33
+msgid "Quota is required."
+msgstr ""
+
+#: ../classes/class-upme-inc-module-settings.php:34
+msgid "Emails is required."
+msgstr ""
+
+#: ../classes/class-upme-inc-module-settings.php:35
+msgid "Quota should be numeric."
+msgstr ""
+
+#: ../classes/class-upme-inc-module-settings.php:36
+msgid "Adding Invitation Code"
+msgstr ""
+
+#: ../classes/class-upme-inc-module-settings.php:37
+msgid "Add Invitation Code"
+msgstr ""
+
+#: ../classes/class-upme-inc-module-settings.php:38
+msgid "Sending Invitation Code"
+msgstr ""
+
+#: ../classes/class-upme-inc-module-settings.php:39
+msgid "Send Invitation Code"
+msgstr ""
+
+#: ../classes/class-upme-inc-module-settings.php:46
+msgid "Invitation Codes"
+msgstr ""
+
+#: ../templates/invitation-code-list.php:6
+msgid "Manage Invitation Codes"
+msgstr ""
+
+#: ../templates/invitation-code-list.php:9
+msgid "Settings"
+msgstr ""
+
+#: ../templates/invitation-code-list.php:11
+msgid "Manage Codes"
+msgstr ""
+
+#: ../templates/invitation-code-list.php:13
+msgid "Send Invitation Codes"
+msgstr ""
+
+#: ../templates/invitation-code-list.php:26
+msgid "Enable/Disable Invitation Codes"
+msgstr ""
+
+#: ../templates/invitation-code-list.php:28
+msgid "If checked, invitation codes will be enabled for registration."
+msgstr ""
+
+#: ../templates/invitation-code-list.php:29
+msgid ""
+"Checking this option will enable invitation codes for new user registrations."
+msgstr ""
+
+#: ../templates/invitation-code-list.php:38
+msgid "Save Changes"
+msgstr ""
+
+#: ../templates/invitation-code-list.php:40
+msgid "Reset Options"
+msgstr ""
+
+#: ../templates/invitation-code-list.php:63
+#: ../templates/invitation-code-list.php:117
+#: ../templates/invitation-code-list.php:143
+msgid "Invitation Code"
+msgstr ""
+
+#: ../templates/invitation-code-list.php:74
+msgid "Enter unique invitation code."
+msgstr ""
+
+#: ../templates/invitation-code-list.php:79
+#: ../templates/invitation-code-list.php:118
+msgid "Quota"
+msgstr ""
+
+#: ../templates/invitation-code-list.php:90
+msgid "Number of occurences for invitation code."
+msgstr ""
+
+#: ../templates/invitation-code-list.php:119
+msgid "Delete"
+msgstr ""
+
+#: ../templates/invitation-code-list.php:155
+msgid "Select available invitation code."
+msgstr ""
+
+#: ../templates/invitation-code-list.php:160
+msgid "Emails"
+msgstr ""
+
+#: ../templates/invitation-code-list.php:172
+msgid "Email addresses for sending invitation codes."
+msgstr ""
+
+#: ../upme-invitation-codes.php:33
+msgid ""
+"<strong>UPME Invitation Codes Addon</strong> requires <strong>User Profiles "
+"Made Easy</strong> plugin to function properly"
+msgstr ""
